@@ -1,0 +1,1 @@
+chmod 555 /data/data/com.tencent.ig/lib/libhelpshiftlistener.so
